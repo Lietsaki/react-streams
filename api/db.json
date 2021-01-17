@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "hello",
+      "description": "bye",
+      "id": 1
+    },
+    {
+      "title": "lovely cats",
+      "description": "my cats doing tricks",
+      "id": 4
+    },
+    {
+      "title": "Programmatic, patched cats hehe",
+      "description": "Deep purple!",
+      "userId": "108435747922060147980",
+      "id": 6
+    }
+  ]
+}
